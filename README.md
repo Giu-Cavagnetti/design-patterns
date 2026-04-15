@@ -11,13 +11,6 @@ This repository contains implementations of common design patterns developed dur
 * `src/main/java` → pattern implementations
 * `src/test/java` → tests 
 
-## How to Run
-Run all tests:
-
-```
-mvn test
-```
-
 ## Goals
 * Understand core design patterns
 * Practice clean code and structure
