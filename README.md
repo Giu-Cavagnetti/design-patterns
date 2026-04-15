@@ -3,16 +3,20 @@
 This repository contains implementations of common design patterns developed during my Software Engineering course.
 
 ## Implemented Patterns
+* Factory Method
+* ...
 * in progress...
 
 ## Project Structure
 * `src/main/java` → pattern implementations
-* `src/test/java` → unit tests (JUnit)
+* `src/test/java` → tests 
 
 ## How to Run
 Run all tests:
 
+```
 mvn test
+```
 
 ## Goals
 * Understand core design patterns
