@@ -3,8 +3,10 @@
 This repository contains implementations of common design patterns developed during my Software Engineering course.
 
 ## Implemented Patterns
+* Adapter
+* Decorator
 * Factory Method
-* ...
+* Mediator
 * in progress...
 
 ## Project Structure
