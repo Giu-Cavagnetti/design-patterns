@@ -6,7 +6,11 @@ This repository contains implementations of common design patterns developed dur
 * Adapter
 * Decorator
 * Factory Method
+* Abstract Factory
+* Prototype
 * Mediator
+* Observer
+* State
 * in progress...
 
 ## Project Structure

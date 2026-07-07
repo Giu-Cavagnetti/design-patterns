@@ -1,6 +1,6 @@
 package mydesignpatternstest;
 
-import mydesignpatterns.mediator.MediatorConcreto;
+import mydesignpatterns.comportamentali.mediator.MediatorConcreto;
 
 import javax.swing.*;
 import java.awt.*;

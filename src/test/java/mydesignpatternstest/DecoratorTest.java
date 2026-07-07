@@ -1,9 +1,9 @@
 package mydesignpatternstest;
 
-import mydesignpatterns.decorator.Bevanda;
-import mydesignpatterns.decorator.Caffe;
-import mydesignpatterns.decorator.CioccolatoDecorator;
-import mydesignpatterns.decorator.LatteDecorator;
+import mydesignpatterns.strutturali.decorator.Bevanda;
+import mydesignpatterns.strutturali.decorator.Caffe;
+import mydesignpatterns.strutturali.decorator.CioccolatoDecorator;
+import mydesignpatterns.strutturali.decorator.LatteDecorator;
 
 public class DecoratorTest {
     public static void main(String[] args) {

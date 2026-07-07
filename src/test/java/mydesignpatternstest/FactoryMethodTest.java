@@ -1,5 +1,7 @@
 package mydesignpatternstest;
-import mydesignpatterns.factorymethod.*;
+import mydesignpatterns.creazionali.factorymethod.Application;
+import mydesignpatterns.creazionali.factorymethod.MyApplication;
+import mydesignpatterns.creazionali.factorymethod.YourApplication;
 
 /**
  * Classe di test del pattern Factory Method.
