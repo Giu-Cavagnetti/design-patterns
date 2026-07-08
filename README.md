@@ -11,6 +11,11 @@ This repository contains implementations of common design patterns developed dur
 * Mediator
 * Observer
 * State
+* Builder
+* Singleton
+* Bridge
+* Composite
+* Flyweight
 * in progress...
 
 ## Project Structure
