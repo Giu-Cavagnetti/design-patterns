@@ -8,7 +8,9 @@ public class CioccolatoDecorator extends BevandaDecorator {
 
     @Override
     public String descrizione() {
-        return super.descrizione() + ", cioccolato";
+        return super.descrizione() +
+                ", cioccolato";
+        //comportamento extra aggiunto
     }
 
     @Override
