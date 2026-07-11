@@ -15,7 +15,10 @@ This repository contains implementations of common design patterns developed dur
 * Singleton
 * Bridge
 * Composite
+* Facade
 * Flyweight
+* Chain of Responsibility
+* Command
 * in progress...
 
 ## Project Structure
